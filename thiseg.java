@@ -2,9 +2,9 @@ class test1 {
     int age;
     String name;
 
-    void ans(int age, String name) {
-        this.age = age;
-        this.name = name;
+    void ans(int a, String n) {
+        age = a;
+        name = n;
     }
 
     void sayhi() {
